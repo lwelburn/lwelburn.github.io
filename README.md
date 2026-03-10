@@ -1,2 +1,2 @@
 # lwelburn.github.io
-This repository holds the portfolio of Lowell Welburn.
+This repository contains the portfolio of Lowell Welburn.
