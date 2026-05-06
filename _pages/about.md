@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Research Assistant <a href='https://www.ncat.edu/'>North Carolina A&T State University</a>.
+subtitle: Robotics, Biomechanics, Sim2Real, Reinforcement Learning - <a href='https://www.ncat.edu/'>North Carolina A&T State University</a>
 
 profile:
   align: right
