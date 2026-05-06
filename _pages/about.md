@@ -32,30 +32,35 @@ I'm a PhD Research Assistant working on dexterous robotic hand manipulation and 
 
 ## Skills
 
-**Robotics & Hardware**
-- Tendon-driven robotic hand design
-- moteus-c1 motor controllers, BLDC motors
+**Hardware**
+- Bioinspired robotic hand design
+- FOC-based BLDC motor control
+- Stepper, servo motor control
 - MuJoCo simulation
+- Machining, 3D printing
+- Microcontroller
 
-**Software & Programming**
-- Python, MATLAB, C++
+**Software**
+- Python, MATLAB, Simulink
+- Solidworks, OpenCV, MuJoCo
 - Stable Baselines3, PyTorch
-- ROS2, Git
+- Linux, ROS2, Git
 
-**Research Skills**
+**Research**
 - Reinforcement learning
-- Sim-to-real transfer
 - System identification & calibration
+- Sim2Real transfer
+- Presentation, Teaching
 
 ---
 
 ## Awards & Honors
-
-- **Best Paper Award** — ICRA 2024
-- **Graduate Research Fellowship** — NSF
+**Aerospace UPLIFT Seminar Speaker**, February 2026
+**Graduate Research Poster Competition Winner**, April 2025
+**Convocation Speaker**, July 2018
 
 ---
 
 ## Certifications
-
-- ROS2 Developer Certification
+**Engineer In Training (EIT)**, April 2025
+**SolidWorks CSWP**, March 2019
