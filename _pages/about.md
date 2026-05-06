@@ -27,3 +27,35 @@ latest_posts:
 ---
 
 I'm a PhD Research Assistant working on dexterous robotic hand manipulation and reinforcement learning. My current project, **ReAct Hand** (Remote Actuation Hand), explores tendon-driven finger actuation using MuJoCo simulation and moteus-based hardware, with a goal of Sim2Real transfer for industrial manipulation tasks.
+
+---
+
+## Skills
+
+**Robotics & Hardware**
+- Tendon-driven robotic hand design
+- moteus-c1 motor controllers, BLDC motors
+- MuJoCo simulation
+
+**Software & Programming**
+- Python, MATLAB, C++
+- Stable Baselines3, PyTorch
+- ROS2, Git
+
+**Research Skills**
+- Reinforcement learning
+- Sim-to-real transfer
+- System identification & calibration
+
+---
+
+## Awards & Honors
+
+- **Best Paper Award** — ICRA 2024
+- **Graduate Research Fellowship** — NSF
+
+---
+
+## Certifications
+
+- ROS2 Developer Certification
