@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Research Assistant.
+subtitle: PhD Research Assistant <a href='https://www.ncat.edu/'>North Carolina A&T State University</a>.
 
 profile:
   align: right
   image: Profile.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href='https://www.ncat.edu/'>North Carolina A&T State University</a></p>
-    <p>1601 E. Market St.</p>
-    <p>Greensboro, North Carolina 27411</p>
+  # more_info: >
+  #   <p>1601 E. Market St.</p>
+  #   <p>Greensboro, North Carolina 27411</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
