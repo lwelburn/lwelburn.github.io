@@ -55,12 +55,12 @@ I'm a PhD Research Assistant working on dexterous robotic hand manipulation and 
 ---
 
 ## Awards & Honors
-**Aerospace UPLIFT Seminar Speaker**, February 2026
-**Graduate Research Poster Competition Winner**, April 2025
-**Convocation Speaker**, July 2018
+- **Aerospace UPLIFT Seminar Speaker**, February 2026
+- **Graduate Research Poster Competition Winner**, April 2025
+- **Convocation Speaker**, July 2018
 
 ---
 
 ## Certifications
-**Engineer In Training (EIT)**, April 2025
-**SolidWorks CSWP**, March 2019
+- **Engineer In Training (EIT)**, April 2025
+- **SolidWorks CSWP**, March 2019
