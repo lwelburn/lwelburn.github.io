@@ -2,7 +2,7 @@
 layout: page
 title: ReAct Hand
 description: Bioinpsired tendon-driven robotic hand
-img: assets/img/setup.png
+img: assets/img/ReAct.png
 importance: 1
 category: research
 related_publications: true
