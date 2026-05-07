@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: ReAct Hand
+description: Bioinpsired tendon-driven robotic hand
+img: assets/img/setup.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 

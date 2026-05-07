@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of robotics, 3D printing, machining, and wooden projects.
+# metal vault, baby gate, 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [research, fun]
 horizontal: false
 ---
 
