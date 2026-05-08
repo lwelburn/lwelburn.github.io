@@ -392,11 +392,6 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BabyGate/";
-            },},{id: "projects-react-hand",
-          title: 'ReAct Hand',
-          description: "Bioinspired tendon-driven robotic hand",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Example/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
