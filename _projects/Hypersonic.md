@@ -1,25 +1,20 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Hypersonic Actuator
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/Hypersonic/IMG_4952.JPEG
 redirect: https://unsplash.com
 importance: 2
 category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Feedforward (FF) Control: Reference Signal Compensation
+The goal is for the reference signal and the plant output to be equal.
+Since the reference signal (disturbance) is known, this error can be limited.
+Limitations
+Does not compensate for outside disturbances (e.g., temperature/pressure fluctuations).
+If the compensator is analog, the hardware (electronic, pneumatic, or hydraulic) cannot replicate the dynamics exactly [9].
+If the compensator is digital, the dynamics are limited due to quantization and sampling effects [9].
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
