@@ -392,8 +392,8 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BabyGate/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-hypersonic-actuator",
+          title: 'Hypersonic Actuator',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hypersonic/";
