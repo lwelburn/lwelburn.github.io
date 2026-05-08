@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 ## Motivation
-Many industries implement robotic arms for product manufacturing.Most of these arms 
+Many industries implement robotic arms for product manufacturing. Most of these arms 
 are limited to ≤ 6 DoF, restricting delicate manipulation. Previous research efforts 
 have implemented deep reinforcement learning (DRL) on robotic hands, but many lack 
 the physical robot to validate their algorithms, or are not bioinspired.
@@ -44,7 +44,7 @@ force through tendons, mimicking the musculotendon architecture of the human han
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video width="100%" controls class="rounded z-depth-1">
-            <source src="/assets/video/React/simulation_2_18.mp4" type="video/mp4">
+            <source src="/assets/video/simulation_2_18.mp4" type="video/mp4">
         </video>
     </div>
 </div>
