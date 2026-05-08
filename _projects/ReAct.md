@@ -8,9 +8,16 @@ category: research
 related_publications: true
 ---
 
+## Motivation
+Many industries implement robotic arms for product manufacturing.Most of these arms 
+are limited to ≤ 6 DoF, restricting delicate manipulation. Previous research efforts 
+have implemented deep reinforcement learning (DRL) on robotic hands, but either lack 
+the physical robot to validate their algorithms, or are not bioinspired [1-4]
+
+## ReAct Hand
 The **ReAct Hand** (Remote Actuation Hand) is a bioinspired, tendon-driven robotic hand 
 designed for dexterous manipulation tasks. Actuators are mounted remotely and transmit 
-force through tendons, mimicking the musculotendon sarchitecture of the human hand.
+force through tendons, mimicking the musculotendon architecture of the human hand.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,10 +29,10 @@ force through tendons, mimicking the musculotendon sarchitecture of the human ha
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ReAct/nullConfig.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ReAct/workspace.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,20 +40,6 @@ force through tendons, mimicking the musculotendon sarchitecture of the human ha
     Preliminary CAD design of the forearm, wrist, and hand.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ReAct/setup.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ReAct/IMG_9010.JPEG" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 
