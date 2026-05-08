@@ -3,12 +3,20 @@ layout: page
 title: Hypersonic Actuator
 description: a project that redirects to another website
 img: assets/img/Hypersonic/IMG_4952.JPEG
-redirect: https://unsplash.com
 importance: 2
 category: research
 ---
 
-Feedforward (FF) Control: Reference Signal Compensation
+## Piezoelectric Control
+**Piezoelectric Stacks**
+Use a solid material to convert electrical energy into mechanical energy.
+Can be used for various applications such as actuators, motors, sensors, and energy harvesting devices [1].
+Advantages: 
+Unlimited resolution, no moving parts or aging, high efficiency, produce large forces, and fast response time [2].
+Disadvantages: 
+Force production in only one direction, nonlinearities in modeling due to hysteresis, and temperature effects on position [2].
+
+**Feedforward Reference Signal Compensation**
 The goal is for the reference signal and the plant output to be equal.
 Since the reference signal (disturbance) is known, this error can be limited.
 Limitations
@@ -16,20 +24,16 @@ Does not compensate for outside disturbances (e.g., temperature/pressure fluctua
 If the compensator is analog, the hardware (electronic, pneumatic, or hydraulic) cannot replicate the dynamics exactly [9].
 If the compensator is digital, the dynamics are limited due to quantization and sampling effects [9].
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+**Feedforward Disturbance Rejection**
+The goal in disturbance rejection is for the plant input signal to be unaffected by the disturbance.
+Limitations
+The disturbance must be measured accurately and immediately.
+This can be difficult to realize physically due to sensor limitations, delays, and various noise.
+
+## Linear Actuator Control
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
