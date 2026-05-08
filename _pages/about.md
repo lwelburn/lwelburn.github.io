@@ -31,9 +31,9 @@ I'm a mechanical engineering PhD Research Assistant with a background in anatomy
 ---
 
 ## Education
-PhD in Mechanical Engineering, NC A&T SU (expected August 2026)
-MS in Mechanical Engineering, NC A&T SU (August 2023)
-BS in Exercise Physiology, BYU-Idaho (July 2018)
+- PhD in Mechanical Engineering, NC A&T SU (expected August 2026)
+- MS in Mechanical Engineering, NC A&T SU (August 2023)
+- BS in Exercise Physiology, BYU-Idaho (July 2018)
 
 ## Skills
 

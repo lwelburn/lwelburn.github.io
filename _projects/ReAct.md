@@ -5,7 +5,7 @@ description: Bioinspired tendon-driven robotic hand
 img: assets/img/ReAct/ReAct.png
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 ## Motivation
@@ -28,6 +28,8 @@ force through tendons, mimicking the musculotendon architecture of the human han
     Preliminary CAD design of the forearm, wrist, and hand.
 </div>
 
+A single finger is modeled and tested to validate the design before implementing the entire hand.
+
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ReAct/nullConfig.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -49,7 +51,31 @@ force through tendons, mimicking the musculotendon architecture of the human han
     </div>
 </div>
 <div class="caption">
-    ReAct Hand demo.
+    Point tracking in simulation.
+</div>
+
+The challenges of long transmission lines are demonstrated in the video below. PTFE tubes bend and twist under large loads.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <video width="100%" controls class="rounded z-depth-1">
+            <source src="/assets/video/flexing.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+<div class="caption">
+    Simple finger movement.
 </div>
 
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <video width="100%" controls class="rounded z-depth-1">
+            <source src="/assets/video/scaleTest.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+<div class="caption">
+    Static wrench evaluation.
+</div>
