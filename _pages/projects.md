@@ -2,8 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of robotics, 3D printing, machining, and wooden projects.
-# metal vault, baby gate, 
+description: A collection of ever-evolving robotics, 3D printing, machining, and wooden projects.
 nav: true
 nav_order: 2
 display_categories: [research, fun]
