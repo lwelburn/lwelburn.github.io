@@ -28,8 +28,7 @@ force through tendons, mimicking the musculotendon architecture of the human han
     Preliminary CAD design of the forearm, wrist, and hand.
 </div>
 
-A single finger is modeled and tested to validate the design before implementing the entire hand.
-
+A single finger is modeled and tested to validate the design before implementing the entire hand. Each finger has 4 DoF (RRRR) and is tendon-driven by 8 independent tendons/motors.
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ReAct/nullConfig.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -67,7 +66,7 @@ The challenges of long transmission lines are demonstrated in the video below. P
     Simple finger movement.
 </div>
 
-
+Given an applied static wrench, the goal is to apply the necessary joint/motor torques to maintain static equilibrium. It is assumed that the mass of each link is negligible and that friction losses are minimal. In the test below, the objective was to push with the required force to measure 300 g on the scale.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
