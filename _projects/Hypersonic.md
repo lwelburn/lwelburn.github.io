@@ -1,21 +1,25 @@
 ---
 layout: page
 title: Hypersonic Actuator
-description: a project that redirects to another website
+description: control of proposed actuators for hypersonic vehicle applications
 img: assets/img/Hypersonic/IMG_4952.JPEG
 importance: 2
 category: research
 ---
 
 ## Piezoelectric Control
+
 **Piezoelectric Stacks**
+
 Piezo stacks use a solid material to convert electrical energy into mechanical energy and can be used for various applications such as actuators, motors, sensors, and energy harvesting devices.
+
 **Advantages:**
 - fast response time
 - unlimited resolution
 - no moving parts or aging
 - high efficiency
 - produce large forces
+
 **Disadvantages:**
 - force production in only one direction
 - nonlinearities in modeling due to hysteresis
