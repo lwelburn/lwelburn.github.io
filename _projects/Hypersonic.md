@@ -9,12 +9,26 @@ category: research
 
 ## Piezoelectric Control
 **Piezoelectric Stacks**
-Use a solid material to convert electrical energy into mechanical energy.
-Can be used for various applications such as actuators, motors, sensors, and energy harvesting devices [1].
-Advantages: 
-Unlimited resolution, no moving parts or aging, high efficiency, produce large forces, and fast response time [2].
-Disadvantages: 
-Force production in only one direction, nonlinearities in modeling due to hysteresis, and temperature effects on position [2].
+Piezo stacks use a solid material to convert electrical energy into mechanical energy and can be used for various applications such as actuators, motors, sensors, and energy harvesting devices.
+**Advantages:**
+- fast response time
+- unlimited resolution
+- no moving parts or aging
+- high efficiency
+- produce large forces
+**Disadvantages:**
+- force production in only one direction
+- nonlinearities in modeling due to hysteresis
+- temperature effects on position
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Hypersonic/Design.png" title="BlockDiagram" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Proposed design of the experimental setup.
+</div>
 
 **Feedforward Reference Signal Compensation**
 The goal is for the reference signal and the plant output to be equal.
@@ -36,11 +50,11 @@ This can be difficult to realize physically due to sensor limitations, delays, a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Hypersonic/BlockDiagram.png" title="BlockDiagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Block diagram for the experimental setup.
 </div>
 
 You can also put regular text between your rows of images.
