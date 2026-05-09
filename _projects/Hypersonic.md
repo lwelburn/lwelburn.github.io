@@ -26,7 +26,7 @@ Piezo stacks use a solid material to convert electrical energy into mechanical e
 - temperature effects on position
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Hypersonic/BlockDiagram.png" title="BlockDiagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -70,23 +70,12 @@ This can be difficult to realize physically due to sensor limitations, delays, a
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video width="100%" controls class="rounded z-depth-1">
-            <source src="/assets/video/Hypersonic/scaleTest.mp4" type="video/mp4">
+            <source src="/assets/video/Hypersonic/Test.mp4" type="video/mp4">
         </video>
     </div>
 </div>
 <div class="caption">
-    Static wrench evaluation.
+    Hardware test.
 </div>
 
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <video width="100%" controls class="rounded z-depth-1">
-            <source src="/assets/video/Hypersonic/scaleTest.mp4" type="video/mp4">
-        </video>
-    </div>
-</div>
-<div class="caption">
-    Static wrench evaluation.
-</div>
