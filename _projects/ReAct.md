@@ -46,7 +46,7 @@ A single finger is modeled and tested to validate the design before implementing
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video width="100%" controls class="rounded z-depth-1">
-            <source src="/assets/video/tracking.mp4" type="video/mp4">
+            <source src="/assets/video/ReAct/tracking.mp4" type="video/mp4">
         </video>
     </div>
 </div>
@@ -59,7 +59,7 @@ The challenges of long transmission lines are demonstrated in the video below. P
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video width="100%" controls class="rounded z-depth-1">
-            <source src="/assets/video/flexing.mp4" type="video/mp4">
+            <source src="/assets/video/ReAct/flexing.mp4" type="video/mp4">
         </video>
     </div>
 </div>
@@ -72,7 +72,7 @@ Given an applied static wrench, the goal is to apply the necessary joint/motor t
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video width="100%" controls class="rounded z-depth-1">
-            <source src="/assets/video/scaleTest.mp4" type="video/mp4">
+            <source src="/assets/video/ReAct/scaleTest.mp4" type="video/mp4">
         </video>
     </div>
 </div>
