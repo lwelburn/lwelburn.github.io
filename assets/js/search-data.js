@@ -440,7 +440,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Welburn%20CV.pdf", "_blank");
+          window.open("/assets/pdf/Welburn_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
