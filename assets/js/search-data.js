@@ -387,7 +387,7 @@ ninja.data = [{
               window.location.href = "/projects/BabyGate/";
             },},{id: "projects-hypersonic-actuator",
           title: 'Hypersonic Actuator',
-          description: "a project that redirects to another website",
+          description: "control of proposed actuators for hypersonic vehicle applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hypersonic/";
             },},{id: "projects-little-wolf",
