@@ -61,7 +61,7 @@ bib_search: true
 
 nav_external_links:
   - title: CV
-    url: /assets/pdf/Welburn CV.pdf
+    url: /assets/pdf/Welburn_CV.pdf
     new_window: true  # set true to open in a new tab
 
 # Dimensions
