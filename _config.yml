@@ -59,6 +59,11 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
+nav_external_links:
+  - title: CV
+    url: /assets/pdf/Welburn CV.pdf
+    new_window: true  # set true to open in a new tab
+
 # Dimensions
 max_width: 930px
 
