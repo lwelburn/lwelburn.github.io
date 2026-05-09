@@ -117,6 +117,15 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if site.nav_external_links %}
+            {% for link in site.nav_external_links %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ link.url }}" {% if link.new_window %}target="_blank" rel="noopener noreferrer"{% endif %}>
+                  {{ link.title }}
+                </a>
+              </li>
+            {% endfor %}
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
