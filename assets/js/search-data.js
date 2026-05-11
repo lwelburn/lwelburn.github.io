@@ -380,9 +380,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+          section: "News",},{id: "projects-baby-gate",
+          title: 'Baby Gate',
+          description: "automatic closing baby gate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BabyGate/";
             },},{id: "projects-hypersonic-actuator",
@@ -400,29 +400,29 @@ ninja.data = [{
           description: "Bioinspired tendon-driven robotic hand",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ReAct/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-reaction-wheel-motorcycle",
+          title: 'Reaction Wheel Motorcycle',
+          description: "self-balancing RC motorcycle",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ReactionCycle/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-reaction-wheel",
+          title: 'Reaction Wheel',
+          description: "balance of an inverted pendulum via reaction wheel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ReactionWheel/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-trebuchet",
+          title: 'Trebuchet',
+          description: "miniature trebuchet catapult",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Trebuchet/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-chocolate-vault",
+          title: 'Chocolate Vault',
+          description: "a vault to protect valuables, such as chocolate...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Vault/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-wood-work",
+          title: 'Wood Work',
+          description: "various wooden projects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Wooden/";
             },},{id: "teachings-data-science-fundamentals",
