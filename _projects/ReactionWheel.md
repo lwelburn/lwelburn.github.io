@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 2
+title: Reaction Wheel
+description: balance of an inverted pendulum via reaction wheel
+img: assets/img/ReactionWheel/Design.png
+importance: 1
 category: fun
 ---
 

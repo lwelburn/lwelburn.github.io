@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Reaction Wheel Motorcycle
+description: self-balancing RC motorcycle
 img: assets/img/4.jpg
-importance: 7
-category: work
-related_publications: true
+importance: 5
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

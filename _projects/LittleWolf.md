@@ -3,9 +3,8 @@ layout: page
 title: Little Wolf
 description: this is a small humanoid robotic project
 img: assets/img/3.jpg
-importance: 1
+importance: 3
 category: fun
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

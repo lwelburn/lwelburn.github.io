@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Wood Work
+description: various wooden projects
 img: assets/img/6.jpg
-importance: 9
+importance: 7
 category: fun
 ---
 

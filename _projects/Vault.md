@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 6
+title: Chocolate Vault
+description: a vault to protect valuables, such as chocolate...
+img: assets/img/ReactionWheel/Design.png
+importance: 4
 category: fun
 ---
 
