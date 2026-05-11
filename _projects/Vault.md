@@ -2,7 +2,7 @@
 layout: page
 title: Chocolate Vault
 description: a vault to protect valuables, such as chocolate...
-img: assets/img/ReactionWheel/Design.png
+img: assets/img/Vault/Filled.jpg
 importance: 4
 category: fun
 ---

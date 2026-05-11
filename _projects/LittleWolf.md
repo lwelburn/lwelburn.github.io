@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Little Wolf
-description: this is a small humanoid robotic project
-img: assets/img/3.jpg
+description: small tendon-driven humanoid robot
+img: assets/img/LittleWolf/Design.PNG
 importance: 3
 category: fun
 ---
