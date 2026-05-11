@@ -392,7 +392,7 @@ ninja.data = [{
               window.location.href = "/projects/Hypersonic/";
             },},{id: "projects-little-wolf",
           title: 'Little Wolf',
-          description: "this is a small humanoid robotic project",
+          description: "small tendon-driven humanoid robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/LittleWolf/";
             },},{id: "projects-react-hand",
