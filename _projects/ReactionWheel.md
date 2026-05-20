@@ -9,21 +9,12 @@ category: fun
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ReAct/Front.JPEG" title="Front" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ReAct/Back.JPEG" title="Back" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Hardware setup.
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         <video width="100%" controls class="rounded z-depth-1">
             <source src="/assets/video/ReactionWheel/Simple.MP4" type="video/mp4">
         </video>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ReactionWheel/Back.JPEG" title="Back" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
