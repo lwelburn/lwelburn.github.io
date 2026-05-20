@@ -56,5 +56,5 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Fully assembled.
+    Full assembly.
 </div>
