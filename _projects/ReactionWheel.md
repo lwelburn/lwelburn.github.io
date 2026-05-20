@@ -7,14 +7,22 @@ importance: 1
 category: fun
 ---
 
+<style>
+    .fixed-media {
+        width: 100%;
+        aspect-ratio: 3/4;
+        object-fit: cover;
+    }
+<style>
+
 <div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        <video width="100%" controls class="rounded z-depth-1">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <video width="100%" controls class="rounded z-depth-1 fixed-media">
             <source src="/assets/video/ReactionWheel/Simple.MP4" type="video/mp4">
         </video>
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ReactionWheel/Back.JPEG" title="Back" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ReactionWheel/Back.JPEG" title="Back" class="img-fluid rounded z-depth-1 fixed-media" %}
     </div>
 </div>
 <div class="caption">
