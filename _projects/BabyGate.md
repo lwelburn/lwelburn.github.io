@@ -7,3 +7,17 @@ importance: 2
 category: fun
 ---
 
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        <video width="100%" controls class="rounded z-depth-1">
+            <source src="/assets/video/BabyGate/Test.MP4" type="video/mp4">
+        </video>
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/BabyGate/Poster.JPEG" title="Back" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Manual hardware test.
+</div>
+
