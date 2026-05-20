@@ -13,7 +13,7 @@ category: fun
         aspect-ratio: 3/4;
         object-fit: cover;
     }
-<style>
+</style>
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
