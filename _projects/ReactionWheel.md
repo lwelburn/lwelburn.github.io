@@ -16,5 +16,5 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    
+    Hardware setup.
 </div>
