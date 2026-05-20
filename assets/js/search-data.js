@@ -397,7 +397,7 @@ ninja.data = [{
               window.location.href = "/projects/LittleWolf/";
             },},{id: "projects-react-hand",
           title: 'ReAct Hand',
-          description: "Bioinspired tendon-driven robotic hand",
+          description: "bioinspired tendon-driven robotic hand",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ReAct/";
             },},{id: "projects-reaction-wheel-motorcycle",
@@ -417,7 +417,7 @@ ninja.data = [{
               window.location.href = "/projects/Trebuchet/";
             },},{id: "projects-chocolate-vault",
           title: 'Chocolate Vault',
-          description: "a vault to protect valuables, such as chocolate...",
+          description: "vault to protect valuables, such as chocolate...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Vault/";
             },},{id: "projects-wood-work",
