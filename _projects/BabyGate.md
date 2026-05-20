@@ -16,7 +16,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Manual hardware test.
+    Automatic baby gate setup.
 </div>
 
 <div class="row">
