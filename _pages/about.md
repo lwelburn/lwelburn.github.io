@@ -66,3 +66,5 @@ I'm a mechanical engineering PhD Research Assistant with a background in anatomy
 ## Certifications
 - **Engineer In Training (EIT)**, April 2025
 - **SolidWorks CSWP**, March 2019
+- **IEEE Member**, July 2026
+- **IEEE RAS Member**, July 2026
